@@ -48,6 +48,7 @@ AI/ML • DevOps • Security • Web Development
 ## 📫 Connect With Me  
 📧 Email: adwaidhcr2002@gmail.com  
 🔗 LinkedIn: [www.linkedin.com/in/adwaidh-cr]
+
 🌐 Portfolio: 
 
 ---
