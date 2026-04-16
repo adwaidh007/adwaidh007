@@ -44,13 +44,14 @@ AI/ML • DevOps • Security • Web Development
 ## 📌 Featured Projects
   
 - 🔹 Virtual Reality Exposure Therapy (VRET) for PTSD  
-- 🔹 Java DSA Programs  
-- 🔹 React + Node.js Web Projects  
+- 🔹 Smart Email Assistant 
+- 🔹 Signalist - AI-powered real-time stock market application
+- 🔹Intervieu - AI Powered Interview Preparation Platform
 
 ---
 
 ## 🎯 What I'm Working On
-- Building an AI-powered real-time stock market application  
+- Building an AI-powered Projects  
 - Improving my Java & Web development skills  
 - Learning Linux & DevOps  
 - Building projects for my career path  
