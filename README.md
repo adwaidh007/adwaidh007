@@ -46,7 +46,7 @@ AI/ML • DevOps • Security • Web Development
 - 🔹 Virtual Reality Exposure Therapy (VRET) for PTSD  
 - 🔹 Smart Email Assistant 
 - 🔹 Signalist - AI-powered real-time stock market application
-- 🔹Intervieu - AI Powered Interview Preparation Platform
+- 🔹 Intervieu - AI Powered Interview Preparation Platform
 
 ---
 
