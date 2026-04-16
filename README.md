@@ -35,9 +35,9 @@ AI/ML • DevOps • Security • Web Development
 
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=adwaidh007&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adwaidh007&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=adwaidh007&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaidh007&layout=compact&theme=radical)
 
 ---
 
