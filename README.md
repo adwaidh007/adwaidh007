@@ -46,7 +46,7 @@ AI/ML • DevOps • Security • Web Development
 - 🔹 Virtual Reality Exposure Therapy (VRET) for PTSD  
 - 🔹 Smart Email Assistant 
 - 🔹 Signalist - AI-powered real-time stock market application
-- 🔹 Intervieu - AI Powered Interview Preparation Platform
+- 🔹 Collaborative Code Editor
 
 ---
 
@@ -61,7 +61,7 @@ AI/ML • DevOps • Security • Web Development
 ## 📫 Connect With Me  
 📧 **Email:** adwaidhcr2002@gmail.com  
 🔗 **LinkedIn:** www.linkedin.com/in/adwaidh-cr  
-🌐 **Portfolio:** Coming soon...
+🌐 **Portfolio:** https://adwaidh-portfolio.vercel.app/
 
 ---
 
